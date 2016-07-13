@@ -1,0 +1,5 @@
+C:\Jenkins
+
+%JAVA_HOME%\bin
+
+%M2_HOME%\bin
