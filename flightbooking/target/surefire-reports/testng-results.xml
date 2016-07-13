@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.expedia.flightbooking.TestNG_TestSuite" duration-ms="65981" started-at="2016-07-12T16:48:42Z" finished-at="2016-07-12T16:49:48Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="65981" started-at="2016-07-12T16:48:42Z" finished-at="2016-07-12T16:49:48Z">
+      <class name="com.expedia.flightbooking.TestNG_TestSuite">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.expedia.flightbooking.TestNG_TestSuite@97e1986]" name="beforeClass" is-config="true" duration-ms="57487" started-at="2016-07-12T17:48:42Z" finished-at="2016-07-12T17:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="fillBasicInfo()[pri:0, instance:com.expedia.flightbooking.TestNG_TestSuite@97e1986]" name="fillBasicInfo" duration-ms="6678" started-at="2016-07-12T17:49:39Z" finished-at="2016-07-12T17:49:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillBasicInfo -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.expedia.flightbooking.TestNG_TestSuite@97e1986]" name="afterClass" is-config="true" duration-ms="1798" started-at="2016-07-12T17:49:46Z" finished-at="2016-07-12T17:49:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.expedia.flightbooking.TestNG_TestSuite -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.expedia.flightbooking.TestNG_TestSuite -->
+</testng-results>
