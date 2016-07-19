@@ -1,0 +1,6 @@
+com\cucumber\ShopTest\loginuserStep.class
+com\cucumber\ShopTest\newCustomerStep.class
+com\cucumber\ShopTest\commonStep.class
+com\cucumber\ShopTest\RunnerTest.class
+com\cucumber\ShopTest\forgotpswStep.class
+com\cucumber\ShopTest\testBase.class
