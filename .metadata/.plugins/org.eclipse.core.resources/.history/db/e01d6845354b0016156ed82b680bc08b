@@ -1,0 +1,10 @@
+package COM.MVNBDD.MVNBDDProj;
+
+public class TestNG_TestSuite {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
